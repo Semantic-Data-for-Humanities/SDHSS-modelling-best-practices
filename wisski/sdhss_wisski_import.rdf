@@ -14,8 +14,9 @@
         <rdfs:comment xml:lang="en">Ontology with minimal concepts for a usage in a museal context based on CIDOC-CRM 7.1.3</rdfs:comment>
         <rdfs:label xml:lang="en">WissKI Ontology</rdfs:label>
         <owl:imports rdf:resource="https://ontome.net/api/namespaces-rdf-owl.rdf?namespace=1"/>
-        <owl:imports rdf:resource="https://ontome.net/api/namespaces-rdf-owl.rdf?namespace=3"/>
-        <owl:versionInfo>1.2.0</owl:versionInfo>
+        <!--<owl:imports rdf:resource="https://ontome.net/api/namespaces-rdf-owl.rdf?namespace=3"/> -->
+        <owl:imports rdf:resource="namespace-SDHSS Semantic Data for Humanities and Social Sciences CIDOC CRM Extension ongoing.rdf"/>
+                <owl:versionInfo>1.2.0</owl:versionInfo>
     </owl:Ontology>
 
     <!-- WissKI Ontology-->
