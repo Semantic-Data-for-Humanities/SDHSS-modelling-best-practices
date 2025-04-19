@@ -15,8 +15,8 @@
         <rdfs:label xml:lang="en">WissKI Ontology</rdfs:label>
         <owl:imports rdf:resource="https://ontome.net/api/namespaces-rdf-owl.rdf?namespace=1"/>
         <!--<owl:imports rdf:resource="https://ontome.net/api/namespaces-rdf-owl.rdf?namespace=3"/> -->
-        <owl:imports rdf:resource="https://raw.githubusercontent.com/Semantic-Data-for-Humanities/SDHSS-modelling-best-practices/refs/heads/main/wisski/namespace-SDHSS Semantic Data for Humanities and Social Sciences CIDOC CRM Extension ongoing.rdf"/>
-                        <owl:versionInfo>1.2.0</owl:versionInfo>
+        <owl:imports rdf:resource="https://raw.githubusercontent.com/Semantic-Data-for-Humanities/SDHSS-modelling-best-practices/refs/heads/main/wisski/namespace-SDHSS-core-ongoing.rdf"/>
+        <owl:versionInfo>1.2.0</owl:versionInfo>
     </owl:Ontology>
 
     <!-- WissKI Ontology-->
